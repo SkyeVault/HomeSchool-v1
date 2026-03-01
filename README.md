@@ -1,6 +1,6 @@
 # Learning World
 
-A desktop homeschool app for kids built with Tauri and TypeScript. No internet required after install — everything runs locally on your machine.
+A desktop homeschool app for kids built with Tauri and TypeScript. No internet required after install, everything runs locally on your machine.
 
 ---
 
